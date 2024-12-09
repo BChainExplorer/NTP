@@ -1,3 +1,3 @@
 # NTP
 Nesne Tabanlı Programlama Dersi Proje Değerlendirme Kriterleri
-[NTP_Değerlendirme_Proje.xlsx](https://github.com/user-attachments/files/18059323/NTP_Degerlendirme_Proje.xlsx)
+<img width="537" alt="Screenshot 2024-12-09 at 12 39 29" src="https://github.com/user-attachments/assets/3de39a72-9df0-4d87-b291-75a404b0f529">
