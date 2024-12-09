@@ -1,2 +1,3 @@
 # NTP Nesne Tabanlı Programlama Dersi Proje Değerlendirme Kriterleri
-<img width="537" alt="Screenshot 2024-12-09 at 12 39 29" src="https://github.com/user-attachments/assets/3de39a72-9df0-4d87-b291-75a404b0f529">
+
+<img width="554" alt="Screenshot 2024-12-09 at 12 40 49" src="https://github.com/user-attachments/assets/0e6e2653-59ed-4665-addd-d359a10ff2bc">
